@@ -1,0 +1,10 @@
+app/index/InvertedIndex.class
+app/App.class
+app/search/Result.class
+app/search/Strategy.class
+app/search/Searcher.class
+app/index/IndexBuilder.class
+app/search/Operation.class
+app/index/IndexFetcher.class
+app/io/OutputHandler.class
+app/io/InputHandler.class
